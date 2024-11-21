@@ -34,7 +34,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40"/>
     </div>
     ### 🏆 Достижения :
-
     <div>
       <img src="https://github-profile-trophy.vercel.app/?username=user230706" alt=""/>
     </div>
