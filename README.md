@@ -41,13 +41,13 @@
  -->
       ### ⌨️ Наиболее используемые языки :
    <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolasha23" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user230706" alt=""/>
    </div>
 
    </div>
 ### 📊 Статистика активности :
 
    <div>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikolasha23&theme=dracula" alt=""/>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=user230706&theme=dracula" alt=""/>
    </div>
    </div>
