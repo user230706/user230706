@@ -16,7 +16,7 @@
   </div>
   Here are some ideas to get you started:
   
-  ### ⛹️‍♂️ Обо мне:
+   ⛹️‍♂️ Обо мне:
   
   - 🎱: факт обо мне
   
@@ -26,14 +26,13 @@
     
     -->
     
-    ### :hammer_and_wrench: Языки и инструменты :
+     :hammer_and_wrench: Языки и инструменты :
 
     <div>
 <img src="https://github.com/devicons/devicon/tree/master/icons/photoshop/photosop-line.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40"/>
-    -->
-      
+    </div>
     ### 🏆 Достижения :
 
     <div>
