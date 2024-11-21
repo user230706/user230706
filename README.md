@@ -23,11 +23,12 @@
   - 📺: факт обо ине
     
   - 🏡: факт обо мне
+    
     -->
     
     ### :hammer_and_wrench: Языки и инструменты :
 
-    </div>
+    <div>
 <img src="https://github.com/devicons/devicon/tree/master/icons/photoshop/photosop-line.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40"/>
@@ -36,7 +37,7 @@
     ### 🏆 Достижения :
 
     <div>
-      <img src="https://github-profile-trophy.vercel.app/?username=Nikolasha23" alt=""/>
+      <img src="https://github-profile-trophy.vercel.app/?username=user230706" alt=""/>
     </div>
  -->
       ### ⌨️ Наиболее используемые языки :
